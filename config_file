@@ -1,8 +1,8 @@
 {
   "dataset_reader": {
     "class_name": "faq_reader",
-    "x_col_name": "question",
-    "y_col_name": "answer",
+    "x_col_name": "Question",
+    "y_col_name": "Answer",
     "data_url": "https://raw.githubusercontent.com/harrislam1/covid19_chatbot/master/cdc_covid19_faq.csv"
   },
   "dataset_iterator": {
