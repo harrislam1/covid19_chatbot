@@ -13,4 +13,4 @@ It was trained with a corpus based on the CDC and WHO websites, which then was p
 1) Download this repo
 2) `pip3 install -r requirements.txt` to your local environment
 3) Run `python3 app.py` command on your terminal
-4) Click on link that appears at the end(it should be localhost:5000) 
+4) Click on link that appears at the end (it should be localhost:5000) 
