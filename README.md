@@ -2,8 +2,7 @@
 
 The purpose of this chatbot is to provide general advice to questions regarding COVID-19.  
 
-![alt text][logo]
-[logo]:https://github.com/harrislam1/covid19_chatbot/blob/master/covid-19.png "COVID19 Illustration"
+![alt text](https://github.com/harrislam1/covid19_chatbot/blob/master/covid-19.png "COVID19 Illustration")
 
 
 # Description
