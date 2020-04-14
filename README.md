@@ -1,5 +1,5 @@
 # covid19_chatbot ![alt text][logo]
-[logo]:https://github.com/harrislam1/covid19_chatbot/blob/master/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg "COVID19 Illustration"
+[logo]:https://github.com/harrislam1/covid19_chatbot/blob/master/covid-19.png "COVID19 Illustration"
 The purpose of this chatbot is to provide general advice to questions regarding COVID-19.  
 
 # Description
